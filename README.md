@@ -1,4 +1,4 @@
-# Quantum_machine_learning
+# Quantum_ml
 
 This is a quantum machine learning project in which we apply artificial neural networks to quantum states. 
 In quantum physics, every system is described by a state, i.e. a matrix made of complex numbers and enclosing 
